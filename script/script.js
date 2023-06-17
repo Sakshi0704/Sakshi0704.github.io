@@ -24,12 +24,12 @@ function linkAction() {
 }
 navLink.forEach(n => n.addEventListener('click', linkAction));
 
-var typed = new Typed(".auto-type", {
-    strings: ["Java Backend Developer"],
-    typeSpeed: 50,
-    backSpeed: 50,
-    loop: true,
-});
+// var typed = new Typed(".auto-type", {
+//     strings: ["Java Backend Developer"],
+//     typeSpeed: 50,
+//     backSpeed: 50,
+//     loop: true,
+// });
 
 
 /*-- -------------- SKILLS ----------------------- --*/
@@ -51,11 +51,11 @@ skillsHeader.forEach((element) => {
     element.addEventListener('click', toggleSkills);
 })
 
-GitHubCalendar(".calendar", "Sakshi0704", {
-    responsive: true,
-    global_stats: false,
-    tooltips: true,
-  });
+// GitHubCalendar(".calendar", "Sakshi0704", {
+//     responsive: true,
+//     global_stats: false,
+//     tooltips: true,
+//   });
 
 
 /*-- -------------------- SHOW SCROLL TOP -------------------- --*/
