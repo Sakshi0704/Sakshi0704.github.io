@@ -68,13 +68,13 @@ window.addEventListener('scroll', scrollUp)
 
 document.getElementById("resume-button-1").onclick = () => {
     window.open(
-      "https://drive.google.com/file/d/1WgetZ6ZpbxgOE-w6EvRjpTydytzbm4kS/view?usp=drive_link"
+      "https://drive.google.com/file/d/1JL4vhXgqTfc-R6y82Or8VQb_3arHeb8G/view?usp=drive_link"
     );
   };
   
   document.getElementById("resume-link-2").onclick = () => {
     window.open(
-      "https://drive.google.com/file/d/1WgetZ6ZpbxgOE-w6EvRjpTydytzbm4kS/view?usp=drive_link"
+      "https://drive.google.com/file/d/1JL4vhXgqTfc-R6y82Or8VQb_3arHeb8G/view?usp=drive_link"
     );
   };
 
